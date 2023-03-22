@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "365906131724",
+    "project_id": "chat-bloc-app",
+    "storage_bucket": "chat-bloc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365906131724:android:d6058b584ee0fab5c12729",
+        "android_client_info": {
+          "package_name": "com.chat_bloc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365906131724-j9u07bmgdrp9b661kihd3it9pp3fuhvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat_bloc.app",
+            "certificate_hash": "49f84357a37dc5c34d17617980fa6fea43c6db8a"
+          }
+        },
+        {
+          "client_id": "365906131724-q22oeuidobktib1cpab2tedlp94atumo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2PKswog9t57yoQtn99IDiGrVKggOfOdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365906131724-q22oeuidobktib1cpab2tedlp94atumo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
